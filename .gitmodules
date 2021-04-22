@@ -1,0 +1,3 @@
+[submodule "demo-repo2"]
+	path = demo-repo2
+	url = https://github.com/hanweooi/demo-repo2.git
